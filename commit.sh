@@ -5,5 +5,5 @@ mv Databases/fm-dev-start.fmp12 ./
 rm -r Databases
 
 git add .
-git commit -a -m "commit from script"
+git commit -a -m "Add standard script folders."
 git push
