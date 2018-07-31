@@ -8,3 +8,9 @@ Features
 
 - Large and useful custom function library
 - Numerous useful modules
+
+Credentials
+-----------
+
+Username: "Developer"
+Password: "developer"
