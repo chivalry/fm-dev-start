@@ -11,7 +11,7 @@ Requirements
 Integration Instructions
 ------------------------
 
-1. Import all of the custom functions from the chiv-lib file.
+1. Import all of the custom functions from the fm-dev-start file.
 2. Import the `window` script folder and all of its sub-folders and scripts into your solution.
 
 See the comments within the `Script Parameter Passing Readme` for instructions for passing parameters to public

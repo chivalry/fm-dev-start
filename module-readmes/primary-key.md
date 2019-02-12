@@ -9,12 +9,12 @@ one table with multiple records that has that field.
 Requirements
 ------------
 
-- chiv-lib's custom function library
+- fm-dev-start's custom function library
 
 Integration Instructions
 ------------------------
 
-1. Import all of the custom functions from the chiv-lib file.
+1. Import all of the custom functions from the fm-dev-start file.
 2. Import the `primary-key` script folder and all of its sub-folders and scripts into your solution.
 3. Edit line 3 of the `primary-key config: Primary Key Name` script so that `$_pk_name` is set to the name of
    your solution's primary key fields.
