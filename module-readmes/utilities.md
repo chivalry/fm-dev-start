@@ -15,8 +15,8 @@ Integration Instructions
 1. Import all of the custom functions from the fm-dev-start file.
 2. Import the `utilities` module folder.
 
-See the comments within the `Script Parameter Passing Readme` for instructions for passing parameters to public
-scripts.
+See the "Script Parameters" section of the `conventions.md` file or `Conventions` script for instructions on passing
+parameters to public scripts.
 
 Usage
 -----
@@ -46,3 +46,4 @@ Version History
 1.0.2 - [Charles Ross][chuck] - 19-01-29 - Edited readme to reflect new file name.
 
 [chuck]: mailto:chivalry@mac.com
+

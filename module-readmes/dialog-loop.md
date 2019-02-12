@@ -15,8 +15,8 @@ Integration Instructions
 1. Import all of the custom functions from the this file.
 2. Import the `dialog-loop` script folder.
 
-See the comments within the `Script Parameter Passing Readme` for instructions for passing parameters to public
-scripts.
+See the "Script Parameters" section of the `conventions.md` file or `Conventions` script for instructions on passing
+parameters to public scripts.
 
 Usage
 -----

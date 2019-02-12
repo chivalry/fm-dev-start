@@ -18,8 +18,8 @@ Integration Instructions
 3. Import the `execute` script folder of scripts.
 4. If you didn't copy and paste the `EXE` table, configure the table reference by editing `execute: Settings`.
 
-See the comments within the `Script Parameter Passing Readme` for instructions for passing parameters to public
-scripts.
+See the "Script Parameters" section of the `conventions.md` file or `Conventions` script for instructions on passing
+parameters to public scripts.
 
 Usage
 -----
