@@ -23,8 +23,8 @@ Usage
 -----
 
 When a module needs to know (and verify) the primary key used in the system, call `primary-key: Primary Key Name`
-and use the results returned. If the configured primary key isn't valid, execution will halt with an error
-message.
+and use the results returned. Script results are in the form of let-notation with a single key of `~pk_name`. If the
+configured primary key isn't valid, execution will halt with an error message.
 
 Version History
 ---------------
